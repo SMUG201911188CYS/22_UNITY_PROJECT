@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/IsMeet.cs.meta
+<<<<<<<< HEAD:Assets/Scripts/Intro_tutoUI/ShowUIitemver4.cs.meta
+guid: 1d0e9b2aa444a7c41ad9136053640620
+========
+guid: 1301976b922df5847a65b95f047e0c0a
+>>>>>>>> 12/12:Assets/Scripts/IsMeet.cs.meta
+========
+guid: 15b76a7e27c5fe24cb688e71809dd69e
+>>>>>>>> 221213yschoi:Assets/Scripts/End/End_5scene.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

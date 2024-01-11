@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Assets/blender/NewLayer.terrainlayer
+  m_Name: NewLayer
+  m_DiffuseTexture: {fileID: 2800000, guid: 835e1b7a612dfab459401da6e713fd65, type: 3}
+========
+  m_Name: NewLayer 1
+  m_DiffuseTexture: {fileID: 2800000, guid: c7d8f64973930fb4f9ffe1a62d544627, type: 3}
+>>>>>>>> ljy_Redhood:Assets/Materials/forrest_ground_01_4k.blend/textures/NewLayer 1.terrainlayer
+  m_NormalMapTexture: {fileID: 0}
+  m_MaskMapTexture: {fileID: 2800000, guid: 65e114186aa6b1a4abd694d8c436b758, type: 3}
+  m_TileSize: {x: 2, y: 2}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 1
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}

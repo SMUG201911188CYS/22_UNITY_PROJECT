@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Roof.cs.meta
+<<<<<<<< HEAD:Assets/Scripts/Intro_tutoUI/ShowUIitemver5.cs.meta
+guid: 747a72e89a0a38744b7ce87294f4dbc6
+========
+guid: 0afd391e84ea2a64496d54ccca8a249b
+>>>>>>>> 12/12:Assets/Scripts/Roof.cs.meta
+========
+guid: fd4e241e5dec0f54a8491b8218b9a741
+>>>>>>>> 221213yschoi:Assets/Scripts/End/End.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

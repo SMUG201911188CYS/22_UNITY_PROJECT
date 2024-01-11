@@ -1,0 +1,39 @@
+Input Manager   size = 28?
+Walk : left shift
+Interaction : e
+Swap1 : 1
+Swap2 : 2
+Swap3 : 3
+Swap4 : 4
+Swap5 : 5
+SwapQ : q
+Fire1 : Left Mouse
+Fire2 : Right Mouse
+
+중력 가속도 : -25 이건 필요 없을듯
+
+221121
+박성준
+인벤토리 퀵슬롯 구현
+번호 1 2 3 마다 다른 아이템 먹을 수 있게 구현
+
+221128
+박성준
+인벤토리 아이템 줍는 것 까지 구현 (사용 구현 x)
+총 부품 4개 모을 시 총 만들어지는 거 구현
+종이 3장 모을 시 특정 이벤트 발생 구현
+
+221205 
+박성준
+오른쪽 클릭 누르고 있으면 조준, 왼쪽 클릭 발사 구현
+탄환 ui 및 탄환이 있어야 발사 되는것 구현
+나머지 아이템들 사용할 수 있게 구현할 것
+탄환 개수, 1 ~ 5번 클릭 시 해당 아이템 이름 출력 구현할 것
+
+221211
+박성준
+파티클 시스템 (poison) 나오는 방식 변경
+  -> play on Awake -> delay
+열쇠 좌클릭으로 locked object 풀기 구현  -> locked tag object에 wall object 필요
+player 기준 독 주위에 갈 경우 5초동안 멈추는 것 구현 + 1번만 디버프 받게 함
+신호탄 던진 위치에 날아가도록 구현 -> 이하 Firecracker1.cs에 구현
